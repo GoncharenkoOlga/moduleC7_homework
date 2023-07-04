@@ -1,0 +1,17 @@
+{
+  "name": "moduleC7_homework",
+  "version": "1.0.0",
+  "description": "SkillFactory: Специализация «Веб-разработчик на Python». Домашнее задание в рамках Модуля C7 Тестирование",
+  "main": "index.js",
+  "repository": "https://github.com/GoncharenkoOlga/moduleC7_homework.git",
+  "scripts": {
+    "test": "jest",
+    "count-down-dev": "nodemon src/countDown",
+    "reverse-string-dev": "nodemon src/reverseString"
+  },
+  "author": "GoncharenkoOlga",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
